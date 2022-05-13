@@ -3,7 +3,7 @@
 </p>
 
 - 🔭 Atualmente estou trabalhando no [Observatórtio Territorial do DF](http://www.observatorioterritorial.seduh.df.gov.br/) da Secretaria de Desenvolvimento Urbano  do Distrito Federal
-- 👯 Eu procuro colaborar em **projetos de análise ciência de dados**
+- 👯 Eu procuro colaborar em **projetos de ciência de dados**
 - 📝 Eu regularmente escrevo em ...
 - 💬 Me pergunte sobre ****
 - 📫 Fale comigo em **faabricio_sena@hotmail.com**
