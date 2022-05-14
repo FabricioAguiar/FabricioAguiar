@@ -2,10 +2,9 @@
   <img src="https://github.com/FabricioAguiar/FabricioAguiar/blob/main/assets/header.gif" alt="Oi, eu sou o Fabricio">
 </p>
 
-- 🔭 Atualmente estou trabalhando no [Observatórtio Territorial do DF](http://www.observatorioterritorial.seduh.df.gov.br/) da Secretaria de Desenvolvimento Urbano  do Distrito Federal
+- 🔭 Atualmente estou trabalhando no [Observatório Territorial do DF](http://www.observatorioterritorial.seduh.df.gov.br/) da Secretaria de Desenvolvimento Urbano  do Distrito Federal
 - 👯 Eu procuro colaborar em **projetos de ciência de dados**
-- 📝 Eu regularmente escrevo em ...
-- 💬 Me pergunte sobre ****
+- 💬 Me pergunte sobre dados públicos, visualização de dados e cultura pop
 - 📫 Fale comigo em **faabricio_sena@hotmail.com**
 - 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/fabricio-aguiar/](https://www.linkedin.com/in/fabricio-aguiar/)
 - Habilidades: Programo em R, tenho familiaridade com SQL, Tableau, falo Espanhol, inglês e sei um pouco de Francês
