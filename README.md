@@ -7,7 +7,7 @@
 - 📝 Eu regularmente escrevo em ...
 - 💬 Me pergunte sobre ****
 - 📫 Fale comigo em **faabricio_sena@hotmail.com**
-- 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/kizzyterra](https://www.linkedin.com/in/fabricio-aguiar/)
+- 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/fabricio-aguiar/](https://www.linkedin.com/in/fabricio-aguiar/)
 - Habilidades: Programo em R, tenho familiaridade com SQL, Tableau, falo Espanhol, inglês e sei um pouco de Francês
 
 </br>
